@@ -13,7 +13,7 @@ main {
   height: auto; }
 
 #navbar {
-  background-color: #11081a; }
+  background-color: #00000079; }
 
 #header {
   background-color: #252921c4;
@@ -36,18 +36,37 @@ main {
   padding: 20px;
   color: #cbcecc; }
 
-.carousel-control-prev, .carousel-control-next {
-  background-color: rgba(255, 255, 255, 0.438); }
+#banner {
+  width: 700px;
+  height: auto; }
 
 #about,
 #news,
 #events {
   background-color: rgba(255, 255, 255, 0.438);
   margin-top: 20px;
-  outline: 1px solid #020301; }
+  margin-bottom: 10px; }
+
+#footer {
+  background-color: #000000ec;
+  color: white;
+  padding: 20px; }
+
+#mapouter {
+  height: auto;
+  width: auto;
+  margin-left: 10px; }
+
+#gmap_canvas {
+  text-align: left;
+  overflow: hidden;
+  background: none !important;
+  height: auto;
+  width: auto; }
 
 .form-row {
-  padding: 20px; }
+  padding: 20px;
+  margin-left: 10px; }
 
 /* XS screens */
 /* sm screens */
