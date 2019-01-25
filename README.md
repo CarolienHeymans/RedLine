@@ -1,3 +1,3 @@
 # RedLine
 
-https://carolienheymans.github.io/RedLine/
+https://carolienheymans.github.io/StanOckersClassic/
