@@ -1,0 +1,55 @@
+html {
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box; }
+
+body {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("img/background.jpg");
+  background-attachment: fixed; }
+
+main {
+  width: auto;
+  height: auto; }
+
+#navbar {
+  background-color: #11081a; }
+
+#header {
+  background-color: #252921c4;
+  padding: 10px; }
+
+.nav-link {
+  font-size: 1em;
+  color: #cbcecc; }
+
+#navbaricon {
+  font-size: 1em;
+  color: #cbcecc; }
+
+.container {
+  background-color: #020301c4;
+  width: auto;
+  height: auto; }
+
+.contact {
+  padding: 20px;
+  color: #cbcecc; }
+
+.carousel-control-prev, .carousel-control-next {
+  background-color: rgba(255, 255, 255, 0.438); }
+
+#about,
+#news,
+#events {
+  background-color: rgba(255, 255, 255, 0.438);
+  margin-top: 20px;
+  outline: 1px solid #020301; }
+
+.form-row {
+  padding: 20px; }
+
+/* XS screens */
+/* sm screens */
+/* md screens */
+/* lg screens */

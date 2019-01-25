@@ -1,0 +1,81 @@
+html {
+    box-sizing: content-box;
+}
+
+body {
+   
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("img/background.jpg");
+  background-attachment: fixed;
+}
+main{
+    width: auto;
+    height: auto;
+}
+
+#navbar {
+  background-color: #11081a;
+}
+
+#header {
+    background-color: #252921c4;
+    padding: 10px;
+}
+
+.nav-link {
+    font-size: 1em;
+    color: rgb(203, 206, 204);
+}
+
+#navbaricon {
+    font-size: 1em;
+    color: rgb(203, 206, 204);
+}
+
+.container {
+  background-color: #020301c4;
+    width: auto;
+    height:auto;
+}
+
+.contact {
+    padding: 20px;
+    color: rgb(203, 206, 204);
+}
+.carousel-control-prev, .carousel-control-next{
+    background-color: rgba(255, 255, 255, 0.438);
+}
+
+#about,
+#news,
+#events{
+    background-color: rgba(255, 255, 255, 0.438);
+    margin-top: 20px;
+    outline: 1px solid #020301;
+}
+
+
+.form-row {
+    padding: 20px;
+}
+
+/* XS screens */
+@media (max-width: 575.98px) {
+    
+}
+
+/* sm screens */
+@media (min-width: 576px) { 
+}
+
+
+/* md screens */
+@media (min-width: 576px) {  
+}
+
+
+/* lg screens */
+@media (min-width: 992px) {
+
+}
